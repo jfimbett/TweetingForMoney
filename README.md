@@ -1,2 +1,2 @@
 # TweetingForMoney
-Repository for the paper Tweeting for Money
+Python Repository for the paper Tweeting for Money.
